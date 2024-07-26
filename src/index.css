@@ -2,7 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://fonts.cdnfonts.com/css/londrina-solid");
+
 #main {
   background: url(./assets/bg.svg) center center no-repeat;
   background-size: cover;
+}
+
+.special {
+  -webkit-text-stroke: 1px #24378f;
 }

@@ -14,9 +14,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        Jack: ["Jack Candlestick", "sans-serif"],
-        JackCon: ["Jack Candlestick Con", "sans-serif"],
-        Jost: ["Jost", "sans-serif"],
+        main: ["Londrina Solid", "sans-serif"],
       },
     },
   },

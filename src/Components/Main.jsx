@@ -15,6 +15,11 @@ function Main() {
       <div className="container flex justify-center flex-col items-center pt-12 gap-7">
         <img src={logo} alt="logo" />
         <img src={about} alt="logo" className="pointer-events-none" />
+
+        <h2 className="font-main break-all text-center text-2xl text-white stroke-black font-bold special">
+          <span className="text-4xl">CA:</span> <br />{" "}
+          74UV5osocdAH4TLpncTPsaups1tnyQE8b4w7onWhpump
+        </h2>
         <div className="flex flex-wrap gap-10 items-center justify-center mt-12">
           <a href="https://t.me/oreoportalsol">
             <img src={telegram} alt="" />
